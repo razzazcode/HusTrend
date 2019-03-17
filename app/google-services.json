@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "379016247982",
+    "firebase_url": "https://hustrend-9215a.firebaseio.com",
+    "project_id": "hustrend-9215a",
+    "storage_bucket": "hustrend-9215a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379016247982:android:17dff83d12de6144",
+        "android_client_info": {
+          "package_name": "com.h2code.hustrend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379016247982-p7kfhmmpbm2n2m234gar0djd7qrnudpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.h2code.hustrend",
+            "certificate_hash": "012edaaec1e0409f89efa50efe730f26644d9817"
+          }
+        },
+        {
+          "client_id": "379016247982-72s5d8p91dtpv5shvbt8e26rgd1gjfti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOINt4cPcu-yCWFVrnB6OSNu36umZAoUg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379016247982-72s5d8p91dtpv5shvbt8e26rgd1gjfti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
